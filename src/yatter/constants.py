@@ -238,4 +238,3 @@ YARRRML_DATABASES_DRIVER = {
 }
 
 logger = logging.getLogger(__name__)
-coloredlogs.install(level='DEBUG', fmt='%(asctime)s,%(msecs)03d | %(levelname)s: %(message)s')
